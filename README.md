@@ -61,7 +61,7 @@ To use the Rafiu_CI_CD locally you will run:
 
 
 ## Credits
-Initial StarterCode was provided by the edX. The Converting codes were written by me to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. Also with the help from several AI chatbots, incl. the edX AI chatbot, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when debuging issues. Additionally, several YouTube tutorials were referenced to better understand `Cypress`, `MongoDB`, and  `API` structure as well. 
+Initial StarterCode was provided by the edX. The Converting codes were written by me to create a `CI/CD pipeline` using `GitHub Actions` to run the component tests via `Cypress` when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. Also with the help from several `AI chatbots`, incl. the `edX AI chatbot`, `ChatGPT`, and `GitHub Copilot`. I also watched a lot of `Youtube` tutorials when debuging issues. Additionally, several `YouTube` tutorials were referenced to better understand `Cypress`, `MongoDB`, and  `API` structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
