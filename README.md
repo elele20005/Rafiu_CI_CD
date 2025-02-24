@@ -50,7 +50,7 @@ To complete the assignment, you'll need to do the following:
 
 Install `Cypress as a dev dependency.`
 
-Create a `component test for the quiz component.`
+create a `CI/CD pipeline using GitHub Actions`
 
  
 ## Usage
@@ -62,7 +62,7 @@ To use the Rafiu_CI_CD locally you will run:
 
 
 ## Credits
-Initial StarterCode was provided by the edX. The Converting codes were written by me by enhacing it to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. I also watched a lot of Youtube tutorials when debuging issues. Additionally, several YouTube tutorials were referenced to better understand Cypress, MongoDB, and  API structure as well. 
+Initial StarterCode was provided by the edX. The Converting codes were written by me by enhacing it to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. I also watched a lot of Youtube tutorials when debuging issues. Additionally, several YouTube tutorials were referenced to better understand `Cypress`, `MongoDB`, and  `API` structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
@@ -73,7 +73,7 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 No contributions needed at this time - but feel free to download, fork, use, and play with the codes as desired.
 
 ## Tests
-To test the code, initiate the server by executing the command `npm run server:dev`. Subsequently, open a separate terminal and run the command `npm run test`. This action will execute the component test `Quiz.cy.tsx` as well as the end-to-end test `quiz.cy.ts`. With the server still operational, you may run `npm run cypress`, provided that it is installed. This will launch Cypress, from which you can conduct both the Component and end-to-end tests.
+To test the code, initiate the server by executing the command `npm run start`. Subsequently, open a separate terminal and run the command `npm run test`. This action will execute the component test `Rafiu_CI_CD` as well as the end-to-end test `C`. With the server still operational, you may run `npm run cypress`, provided that it is installed. This will launch Cypress, from which you can conduct both the Component and end-to-end tests.
 
 ## Demo Link: 
 [https://drive.google.com/file/d/1gTLmU_vp0JPTFsGBl4hoz1pqYIeKXDf7/view ](https://drive.google.com/file/d/1oeolqKGLFve3WOQd89syCsYKdFXQIlf4/view?usp=sharing)
