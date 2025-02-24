@@ -23,8 +23,6 @@ My task is to take starter code and create a CI/CD pipeline using GitHub Actions
 ![Screenshot 2025-02-23 183657](https://github.com/user-attachments/assets/7ff19836-4c00-42ce-90da-d71d5f204bc9)
 
 
-![Rafiu_CI_CD Mock-up 2](https://github.com/user-attachments/assets/700198c0-aabf-4886-8822-d164f530466b)
-
 ![Rafiu_CI_CD Mock-up 1](https://github.com/user-attachments/assets/f701da47-43b1-414d-926e-0880f8610ff9)
 
 
