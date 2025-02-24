@@ -9,9 +9,8 @@ I WANT a full-stack application that runs test cases when a Pull Request is made
 SO THAT I can ensure that all code integrations are clean and pass the proper requirements and that the application is constantly updated when major releases are made to the main branch
 
 ## Description: MERN stack, React, MongoDB, and Node.js/Express.js server and API, updated with Cypress 
-## Task Your task is to take starter code and create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch.
+My task is to take starter code and create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch.
 
-This week task is to take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. This Tech Quiz allows users to answer a series of questions and provides a final score based on the number of correct answers. The project also includes a Cypress folder containing automated test scripts that verify the game's functionality, which can be executed using Cypress or directly from the terminal.
 
 
 
