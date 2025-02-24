@@ -20,7 +20,8 @@ My task is to take starter code and create a CI/CD pipeline using GitHub Actions
 
 
 
-![Rafiu_CI_CD Mock-up](https://github.com/user-attachments/assets/388b7b32-bd96-4992-a7e3-8d9bd30ea1fd)
+![Screenshot 2025-02-23 183657](https://github.com/user-attachments/assets/7ff19836-4c00-42ce-90da-d71d5f204bc9)
+
 
 ![Rafiu_CI_CD Mock-up 2](https://github.com/user-attachments/assets/700198c0-aabf-4886-8822-d164f530466b)
 
@@ -62,7 +63,7 @@ To use the Rafiu_CI_CD locally you will run:
 
 
 ## Credits
-Initial StarterCode was provided by the edX. The Converting codes were written by me by enhacing it to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. Also with the help from several AI chatbots, incl. the edX AI chatbot, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when debuging issues. Additionally, several YouTube tutorials were referenced to better understand `Cypress`, `MongoDB`, and  `API` structure as well. 
+Initial StarterCode was provided by the edX. The Converting codes were written by me to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the develop branch, and the application is deployed when code is merged from develop to the main branch. Also with the help from several AI chatbots, incl. the edX AI chatbot, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when debuging issues. Additionally, several YouTube tutorials were referenced to better understand `Cypress`, `MongoDB`, and  `API` structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
@@ -73,10 +74,11 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 No contributions needed at this time - but feel free to download, fork, use, and play with the codes as desired.
 
 ## Tests
-To test the code, initiate the server by executing the command `npm run start`. Subsequently, open a separate terminal and run the command `npm run test`. This action will execute the component test `Rafiu_CI_CD` as well as the end-to-end test `C`. With the server still operational, you may run `npm run cypress`, provided that it is installed. This will launch Cypress, from which you can conduct both the Component and end-to-end tests.
+To test the code, initiate the server by executing the command `npm run start`. Subsequently, open a separate terminal and run the command `npm run test`. This action will execute the component test `Rafiu_CI_CD`.
 
-## Demo Link: 
-[https://drive.google.com/file/d/1gTLmU_vp0JPTFsGBl4hoz1pqYIeKXDf7/view ](https://drive.google.com/file/d/1oeolqKGLFve3WOQd89syCsYKdFXQIlf4/view?usp=sharing)
+## Deployed Link: 
+
+https://rafiu-ci-cd.onrender.com 
 
 ## For Questions, please reach out to:
  
