@@ -17,10 +17,14 @@ This week task is to take the starter codebase of a fully functioning Tech Quiz 
 
                                  `The Screenshot Is Shown Below`
                                  
-![Tech_Quiz1](https://github.com/user-attachments/assets/92925ace-c639-4f7b-9a0f-057bdaed5496)
 
-![Tech_Quiz](https://github.com/user-attachments/assets/951fd5d7-90f1-4338-9d30-7cd9e18637b6)
 
+
+![Rafiu_CI_CD Mock-up](https://github.com/user-attachments/assets/388b7b32-bd96-4992-a7e3-8d9bd30ea1fd)
+
+![Rafiu_CI_CD Mock-up 2](https://github.com/user-attachments/assets/700198c0-aabf-4886-8822-d164f530466b)
+
+![Rafiu_CI_CD Mock-up 1](https://github.com/user-attachments/assets/f701da47-43b1-414d-926e-0880f8610ff9)
 
 
 
